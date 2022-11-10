@@ -4,22 +4,22 @@
     "keywords": "铝箔,个人主页",
     "author": "铝箔",
     "logo_img": "./img/icon/logo.png",
-    "logo_text_1": "imsyy",
+    "logo_text_1": "Acedia0414",
     "logo_text_2": "top",
-    "github": "imsyy",
-    "qq": "1539250352",
-    "email": "one@imsyy.top",
-    "bilibili": "98544142",
+    "github": "Acedia",
+    "qq": "1368709507",
+    "email": "1368709507@qq.com",
+    "bilibili": "351907890",
     "telegram": "bottom_user",
     "link_1": [
-        "https://blog.imsyy.top/",
+        "https://github.com/Acedia0414",
         "fa-solid fa-blog",
-        "博客"
+        "GitHub"
     ],
     "link_2": [
-        "https://drive.imsyy.top/",
+        "https://acedia0414.github.io/Acedia0414.personal.vita/",
         "fa-solid fa-cloud",
-        "网盘"
+        "简历"
     ],
     "link_3": [
         "https://music.imsyy.top/",
@@ -27,17 +27,17 @@
         "音乐"
     ],
     "link_4": [
-        "https://nav.imsyy.top/",
+        "https://acedia0414.github.io/201917608lvbotan/",
         "fa-solid fa-compass",
         "起始页"
     ],
     "link_5": [
-        "https://web.imsyy.top/",
+        "",
         "fa-solid fa-book-bookmark",
         "网址集"
     ],
     "link_6": [
-        "https://lab.imsyy.top/",
+        "",
         "fa-solid fa-flask",
         "实验室"
     ],
