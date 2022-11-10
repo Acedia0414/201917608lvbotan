@@ -1,8 +1,8 @@
 {
-    "title": "無名の主页",
+    "title": "铝箔の主页",
     "description": "一个默默无闻的主页",
-    "keywords": "無名,个人主页",
-    "author": "無名",
+    "keywords": "铝箔,个人主页",
+    "author": "铝箔",
     "logo_img": "./img/icon/logo.png",
     "logo_text_1": "imsyy",
     "logo_text_2": "top",
@@ -41,6 +41,6 @@
         "fa-solid fa-flask",
         "实验室"
     ],
-    "Copyright_text": "無名",
+    "Copyright_text": "铝箔",
     "beian": "豫ICP备2022018134号-1"
 }
